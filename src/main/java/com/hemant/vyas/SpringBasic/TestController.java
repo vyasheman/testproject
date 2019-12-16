@@ -10,6 +10,6 @@ public class TestController {
 	
 	@GetMapping("/welcome")
 	public String welcome() {
-		return "Welcome openshift";
+		return "Welcome to the RedHat openshift";
 	}
 }
